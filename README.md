@@ -23,6 +23,9 @@ file system.
 
 ## How To Contribute
 
+Please fork this repository and then issue a Pull Requests
+for review.
+
 ###Copyright
 
 2021 Sandy T
