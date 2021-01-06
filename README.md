@@ -30,4 +30,4 @@ for review.
 
 ###Copyright
 
-2021 Sandy T
+2021 Sandy T. All rights reserved.
